@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Skada: |cff8080ffThe War Within|r Skin
+## Notes: Applies the The War Within visual style to Skada.
+## Author: Fivebuttons
+## Dependencies: Skada
+## Version: 1.0
+
+SkadaTWW.lua
